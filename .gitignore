@@ -1,5 +1,6 @@
 *.class
 /target
+src/main/java/io/spring/guides/gs_producing_web_service/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
