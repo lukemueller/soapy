@@ -1,6 +1,8 @@
 # Soapy
-
+ 
 Simple Spring 4 app that talks SOAP. Request mapper classes are auto generated with jaxb. 
+
+[![Build Status](https://travis-ci.org/lukemueller/soapy.svg?branch=master)](https://travis-ci.org/lukemueller/soapy)
 
 ## Build
 mvn package
